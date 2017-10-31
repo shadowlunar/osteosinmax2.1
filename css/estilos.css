@@ -10,5 +10,39 @@ body{
 }
 
 footer{
-	background: #0097FF   ;
+	background: black;
 }
+
+#color{
+	background: #1a73d1 ;
+}
+
+#fondo{
+	background: #F4E354 ; 
+}
+
+.redes-sociales {
+	padding: 40px 0;
+	margin-bottom: 40px;
+}
+
+.redes-sociales .fa{
+	width: 100px;
+	height: 100px;
+	font-size: 40px;
+	line-height: 100px;
+	color: #fff;
+	text-align: center;
+	background: #cbcbcb;
+	display: inline-block;
+	margin: 0px 20px;
+	text-decoration: none;
+	border-radius: 100px;
+	transition: all .3s ease;
+}
+
+.redes-sociales .twitter {background: #1da1f2;}
+.redes-sociales .instagram {background: #833ab4;}
+.redes-sociales .facebook {background: #3b5998;}
+.redes-sociales .gmail {background: #DF0101}
+.redes-sociales .msn {background: #2E64FE}
