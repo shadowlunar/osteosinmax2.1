@@ -35,10 +35,10 @@
 						<a href="osteocrema.php" class="dropdown-item">Osteo Sin Max(Crema)</a>
 						<a href="opticol.php" class="dropdown-item">Opticol Eye Plus</a>
 						<a href="hierva.php" class="dropdown-item">Hierva de San Juan(Tab)</a>
-						<a href="hebatogenol.php" class="dropdown-item">Hebatogenol Plus(Tab)</a>
-						<a href="cicatrisan.php" class="dropdown-item">Cicatrisan Plus(Tab)</a>
+						<a href="hepatogenol.html" class="dropdown-item">Hepatogenol Plus(Tab)</a>
+						<a href="cicatrisan.html" class="dropdown-item">Cicatrisan Plus(Tab)</a>
 						<a href="pulmo.php" class="dropdown-item">Pulmo Calcio Plus(Perla)</a>
-						<a href="riñon.php" class="dropdown-item">Riñon Vida Plus(Tab)</a>	
+						<a href="riñonvida.html" class="dropdown-item">Riñon Vida Plus(Tab)</a>	
 						<a href="ovarifem.php" class="dropdown-item">OVARIFEM PLUS MAXTab)</a>		
 					</div>
 					</li>
@@ -98,12 +98,12 @@
 					<div class="card-block ">
 						<h1 class=" card-title text-center">Osteo Sin Max </h1>
 						<p class="card text-left ">
-								<h4>Tratamiento auxilar:</h4> <br>
-								ansiedad <br>
-								insomnio <br>
-								mareos <br>
-								depresion ligera <br>  
-								moderada, etc. <br>
+								<h4>Tratamiento auxilar:</h4> 
+								Ansiedad <br>
+								Insomnio <br>
+								Mareos <br>
+								Depresion ligera <br>  
+								Moderada, etc. <br>
 
 						     	FRASCO CON 30 CAPSULAS<br></br>
 						     <p class="card-title h3 text-center" >Resultados imediatos</p>					 
@@ -133,13 +133,8 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								1 A $345.00 <br>
-								5 A $235.00 <br>
-								10 A $225 <br>
-								20 A $210 <br>
-								40 A $200 <br>
-								80 A $195 <br>
-								100 A $190
+								1 A $$290 <br>
+								A partir de 5: $228
 						</p>
 					</div>
 				</div>

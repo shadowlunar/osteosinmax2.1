@@ -35,10 +35,10 @@
 						<a href="osteocrema.php" class="dropdown-item">Osteo Sin Max(Crema)</a>
 						<a href="opticol.php" class="dropdown-item">Opticol Eye Plus</a>
 						<a href="hierva.php" class="dropdown-item">Hierva de San Juan(Tab)</a>
-						<a href="hebatogenol.php" class="dropdown-item">Hebatogenol Plus(Tab)</a>
-						<a href="cicatrisan.php" class="dropdown-item">Cicatrisan Plus(Tab)</a>
+						<a href="hepatogenol.html" class="dropdown-item">Hebatogenol Plus(Tab)</a>
+						<a href="cicatrisan.html" class="dropdown-item">Cicatrisan Plus(Tab)</a>
 						<a href="pulmo.php" class="dropdown-item">Pulmo Calcio Plus(Perla)</a>
-						<a href="riñon.php" class="dropdown-item">Riñon Vida Plus(Tab)</a>	
+						<a href="riñovida.html" class="dropdown-item">Riñon Vida Plus(Tab)</a>	
 						<a href="ovarifem.php" class="dropdown-item">OVARIFEM PLUS MAXTab)</a>		
 					</div>
 					</li>
