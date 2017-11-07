@@ -39,7 +39,7 @@
 						<a href="cicatrisan.html" class="dropdown-item">Cicatrisan Plus(Tab)</a>
 						<a href="pulmo.php" class="dropdown-item">Pulmo Calcio Plus(Perla)</a>
 						<a href="riñovida.html" class="dropdown-item">Riñon Vida Plus(Tab)</a>	
-						<a href="ovarifem.php" class="dropdown-item">OVARIFEM PLUS MAXTab)</a>		
+						<a href="ovarifem.php" class="dropdown-item">Ovarifem plus max(Tab)</a>		
 					</div>
 					</li>
 					<li class="nav-item dropdown">
