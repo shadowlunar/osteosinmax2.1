@@ -125,9 +125,8 @@
 			<div class="card " style="background: #F1C40F  " >
 				<div class="card-block">
 						<h3 class="card-title text-center">Administración del medicamento</h3>
-						<p class=" text-center">Tomar una tableta cada 12 horas por tres meses y descansar el tiempo que nuestro organismo este sin dolor. despues de los tres meses se recomienda entre frasco y frasco descansar minimo una semana.<br></br>
-						Bajar la ingesta de carnes rojas, disminuir el consumo de sal, y eliminar embutidos, consumir minimo un litro de agua al dia
-				
+						<p class=" text-center">
+						Tomar 2 Perlas cada 8 horas.
 						</p>
 
 				</div>
