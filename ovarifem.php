@@ -35,10 +35,10 @@
 						<a href="osteocrema.php" class="dropdown-item">Osteo Sin Max(Crema)</a>
 						<a href="opticol.php" class="dropdown-item">Opticol Eye Plus</a>
 						<a href="hierva.php" class="dropdown-item">Hierva de San Juan(Tab)</a>
-						<a href="hepatogenol.html" class="dropdown-item">Hepatogenol Plus(Tab)</a>
-						<a href="cicatrisan.html" class="dropdown-item">Cicatrisan Plus(Tab)</a>
+						<a href="hepatogenol.php" class="dropdown-item">Hepatogenol Plus(Tab)</a>
+						<a href="cicatrisan.php" class="dropdown-item">Cicatrisan Plus(Tab)</a>
 						<a href="pulmo.php" class="dropdown-item">Pulmo Calcio Plus(Perla)</a>
-						<a href="riñovida.html" class="dropdown-item">Riñon Vida Plus(Tab)</a>	
+						<a href="rivida.php" class="dropdown-item">Riñon Vida Plus(Tab)</a>	
 						<a href="ovarifem.php" class="dropdown-item">Ovarifem plus max(Tab)</a>		
 					</div>
 					</li>
@@ -63,7 +63,7 @@
 						<a href="memo.php" class="dropdown-item">Memo Rem Plus</a>
 						<a href="piel.php" class="dropdown-item">Piel Sana Plus</a>
 						<a href="Prosata.php" class="dropdown-item">Prosata Wiix</a>
-						<a href="riñon.php" class="dropdown-item">Riñon Sano 1</a>
+						<a href="riñon1.php" class="dropdown-item">Riñon Sano 1</a>
 						<a href="riñon2.php" class="dropdown-item">Riñon Sano 2</a>
 						<a href="tlachalagua.php" class="dropdown-item">Tlanchalagua</a>
 					</div>
@@ -96,7 +96,7 @@
 			<div class="col-8 mt-3">
 				<div class="card " style="background-color:   #F39C12">
 					<div class="card-block ">
-						<h1 class=" card-title text-center">Osteo Sin Max Crema</h1>
+						<h1 class=" card-title text-center">Ovarifem plus max</h1>
 						<p class="card text-left">
                                 <h4>Tratamiento auxilar:</h4>
                                 Trastornos menstruales <br>
@@ -126,9 +126,8 @@
 			<div class="card " style="background: #F1C40F  " >
 				<div class="card-block">
 						<h3 class="card-title text-center">Administración del medicamento</h3>
-						<p class=" text-center">Tomar una tableta cada 12 horas por tres meses y descansar el tiempo que nuestro organismo este sin dolor. despues de los tres meses se recomienda entre frasco y frasco descansar minimo una semana.<br></br>
-						Bajar la ingesta de carnes rojas, disminuir el consumo de sal, y eliminar embutidos, consumir minimo un litro de agua al dia
-				
+						<p class=" text-center">
+						Tomar 2 capletas media hora después de cada alimento.
 						</p>
 
 				</div>
