@@ -79,7 +79,7 @@
 					</div>
 					</li>
 					<li class="nav-item">
-						<a href="index.php" class="nav-link">Contactos</a>
+						<a href="formulario.php" class="nav-link">Contactos</a>
 					</li>
 				</ul>
 			</div>
