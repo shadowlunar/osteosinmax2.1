@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/estilos2.css">
     <link rel="stylesheet" href="css/font-awesome.css">
 
-    <script src="js/jquery-3.2.1.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/scrip.js"></script>
 </head>
 <body>
