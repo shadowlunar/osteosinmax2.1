@@ -27,22 +27,22 @@
             </section>
         </section>
 
-        <form action="" class="form_contact">
+        <form action="enviar.php" nethod="post" class="form_contact">
             <h2>Envia un mensaje</h2>
             <div class="user_info">
                 <label for="names">Nombres *</label>
-                <input type="text" id="names">
+                <input type="text" id="names" name="nombre">
 
                 <label for="phone">Telefono / Celular</label>
-                <input type="text" id="phone">
+                <input type="text" id="phone" name="telefono">
 
                 <label for="email">Correo electronico *</label>
-                <input type="text" id="email">
+                <input type="text" id="email" name="correo">
 
                 <label for="mensaje">Mensaje *</label>
-                <textarea id="mensaje"></textarea>
+                <textarea id="mensaje" name="mensaje"></textarea>
 
-                <input type="button" value="Enviar Mensaje" id="btnSend">
+                <input type="submit" value="Enviar Mensaje" id="btnSend">
             </div>
         </form>
 
