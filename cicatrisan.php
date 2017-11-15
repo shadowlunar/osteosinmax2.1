@@ -94,7 +94,7 @@
 			</div>
 	
 			<div class="col-8 mt-3">
-				<div class="card " style="background-color:   #F39C12">
+				<div class="card " style="background-color: #F39C12">
 					<div class="card-block ">
 						<h1 class=" card-title text-center">Cicatrisan Plus Max</h1>
 						<p class="card text-left">

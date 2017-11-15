@@ -19,10 +19,10 @@
         <section class="cantact_info">
             <section class="info_title">
                 <span class="fa fa-user-circle"></span>
-                <h2>INFORMACION<br>DE CONTACTO</h2>
+                <h2>OSTEO SIN MAX</h2>
             </section>
             <section class="info_items">
-                <p><span class="fa fa-envelope"></span> info.contact@gmail.com</p>
+                <p><span class="fa fa-envelope"></span> darklucario2@gmail.com</p>
                 <p><span class="fa fa-mobile"></span> +1(585) 902-8665</p>
             </section>
         </section>

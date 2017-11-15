@@ -101,6 +101,9 @@
 					</ol>
 
 					<div class=" container mx-auto carousel-inner" >
+						<div class="carousel-item active">
+							<img src="img/OSTEO SIN MAX CREMA.jpg" alt="">
+						</div>
 						<div class=" carousel-item  ">
 							<img src="img/CICATRISAN PLUS MAX.jpg  " alt="">
 						</div>
@@ -109,9 +112,6 @@
 						</div>
 						<div class="carousel-item">
 							<img src="img/RIÑON VIDA PLUS MAS.jpg" alt="">
-						</div>
-						<div class="carousel-item active">
-							<img src="img/OSTEO SIN MAX CREMA.jpg" alt="">
 						</div>
 						<div class="carousel-item">
 							<img src="img/OSTEO SIN MAX.jpg" alt="">
