@@ -1,3 +1,7 @@
+<?php
+// Iniciando el manejo de sesiones
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,6 +18,42 @@
 </head>
 <body>
 
+    <?php 
+    // Comprueba la existencia de la clave
+    if( isset($_SESSION['envio']) )  {
+        //Si envio es TRUE
+        if($_SESSION['envio'] == TRUE ) {
+    ?>
+    <div class="alert alert-ok">
+        <div class="alert-head">
+            Mensaje Recibido con Éxito
+        </div>
+        <div class="alert-body">
+            Gracias por tus comentarios
+        </div>
+    </div>
+    <?php
+        }
+        //Si envio es FALSE
+        else {
+    ?>
+    <div class="alert alert-bad">
+        <div class="alert-head">
+            Error al Enviar
+        </div>
+        <div class="alert-body">
+            <!-- Escribir el motivo del error -->
+        </div>
+    </div>
+    <?php
+        }
+        // Eliminamos la clave 'envio',
+        // sólo será utilizada una única vez
+        unset($_SESSION['envio']);
+    }
+    ?>
+
+
     <section class="form_wrap">
 
         <section class="cantact_info">
@@ -27,22 +67,22 @@
             </section>
         </section>
 
-        <form action="enviar.php" nethod="post" class="form_contact">
-            <h2>Envia un mensaje</h2>
+        <form action="enviar.php" method="post" class="form_contact">
+            <h2>¡Escríbenos! <small>Recibiremos tu mensaje.</small></h2>
             <div class="user_info">
-                <label for="names">Nombres *</label>
-                <input type="text" id="names" name="nombre">
+                <label for="names">Nombre Completo *</label>
+                <input type="text" id="names" name="nombre" required>
 
-                <label for="phone">Telefono / Celular</label>
+                <label for="phone">Teléfono / Celular</label>
                 <input type="text" id="phone" name="telefono">
 
-                <label for="email">Correo electronico *</label>
-                <input type="text" id="email" name="correo">
+                <label for="email">Correo electrónico *</label>
+                <input type="email" id="email" name="correo" required>
 
                 <label for="mensaje">Mensaje *</label>
-                <textarea id="mensaje" name="mensaje"></textarea>
+                <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
 
-                <input type="submit" value="Enviar Mensaje" id="btnSend">
+                <input type="submit" value="Enviar" id="btnSend">
             </div>
         </form>
 

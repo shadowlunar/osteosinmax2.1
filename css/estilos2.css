@@ -235,7 +235,7 @@
       cursor: pointer;
   
       float: right;
-
+  }
       /* MENSAJE EXITOSO*/
 
 .mensaje-exito{
@@ -264,4 +264,33 @@
 .mensaje-exito a:hover{
     background: #3371B6;
 }
-  }
+
+/* Alertas */
+.alert {
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-left: 10%;
+    width: 80%;
+    padding: 15px;
+    color: black;
+}
+
+.alert .alert-head {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.alert .alert-body {
+    text-align: center;
+}
+
+.alert.alert-ok {
+    background-color: #008800;
+    color: #EEEEEE;
+}
+
+.alert.alert-bad {
+    background-color: #AA0000;
+    color: #EEEEEE;
+}
