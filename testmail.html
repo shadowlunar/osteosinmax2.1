@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Plantilla de Envio de Email</title>
+    <style>
+        input, textarea {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h2>Tu Mensaje</h2>
+    <form action="testmail.php" method="post" style="width: 400px;">
+        <label for="">Nombre Completo</label>
+        <input type="text" name="nombre" required>
+        <br>
+        <label for="">Correo Electrónico</label>
+        <input type="mail" name="correo" required>
+        <br>
+        <label for="">Asunto</label>
+        <input type="text" name="asunto" required>
+        <br>
+        <label for="">Mensaje</label>
+        <textarea name="mensaje" cols="30" rows="10"></textarea>
+        <br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
