@@ -1,0 +1,5 @@
+base_db.php
+base_mail.php
+
+# Editores
+.vscode/**
