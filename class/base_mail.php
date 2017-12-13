@@ -4,7 +4,7 @@ define("SECURITY_PROTOCOL", "tls");
 define("HOST_MAIL", "smtp-mail.outlook.com");
 
 //nombre de una cuenta de outlook o hotmail
-define("NAME_MAIL", "thelordsnake@hotmail.com.com");
+define("NAME_MAIL", "thelordsnake@hotmail.com");
 // tu contraseña
 define("PASS_MAIL", "darklucario15");
 //

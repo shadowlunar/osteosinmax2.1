@@ -9,10 +9,10 @@ $REQ_METHOD = strtolower(trim((string) $REQ_METHOD));
 // Comprobar que la petición es originada por POST
 if( $REQ_METHOD == 'post' ) {
     // Dump
-    echo '<pre>';
-    echo print_r($_POST, true);
-    echo '</pre>';
-    // Otra función para hacer dump
+    //echo '<pre>';
+    //echo print_r($_POST, true);
+    //echo '</pre>';//manual
+    // Otra función para hacer dump o atra vez de la funcion
     //var_dump($_POST);
 
     # Obtener los datos
@@ -40,17 +40,18 @@ if( $REQ_METHOD == 'post' ) {
     
     # Datos del Remitente
     # TODO: Cambiar por los parámetros a utilizar en el su servicio
-	$smtp->From       = "tu_mail@mail.com";
-    $smtp->FromName   = "Nombre del Remitente"; 
+	$smtp->From       = "thelordsnake@hotmail.com";
+    $smtp->FromName   = "OSTEO"; 
     
 	# Indicamos los destinatarios usando el siguiente formato
 	#   "correo" => "nombre usuario"
 	$mailTo=array(
-	    $correo => $nombre,
+        'thelordsnake@hotmail.com' => 'OSTEO',
+        'mvaz_12@hotmail.com' => 'Miguel',
     );
 
     # Asunto del Mensaje
-    $smtp->Subject = $asunto;
+    $smtp->Subject = 'A RESIVIDO CORREO';
 
     ## NOTA: En un correo electrónico es importante establecer los tipos de contenido: 'Solo Texto Plano' o 'Texto Plano y HTML'
     

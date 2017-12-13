@@ -9,7 +9,7 @@ if( $REQ_METHOD == 'post' ) {
 
     // Comprobar la existencia de todos los campos necesarios
     if( isset( $_POST['nombre'] ) && 
-        isset($_POST['correo']) && 
+        isset( $_POST['correo']) && 
         isset( $_POST['telefono']) && 
         isset( $_POST['mensaje']) 
         ) {
@@ -23,7 +23,7 @@ if( $REQ_METHOD == 'post' ) {
         // TODO: Agregar aquí el almacenamiento de mensaje en DB
 
         // Datos para el correo
-        $enviar_a = "darklucario2@gmail.com";
+        $enviar_a = ".com";
         $asunto = "Contacto desde nuestra web";
 
         $carta = "De: $nombre \n";
