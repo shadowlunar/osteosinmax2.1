@@ -46,9 +46,9 @@
 					<a href="#" class="nav-link dropdown-toggle" id="menu-categorias1" data-toggle="dropdown" aria-haspopup="true" aria-expaded="false">PATLI</a>
 					<div class="dropdown-menu" arialabelledby="menu-categorias1">
 						
-						<a href="dolotab" class="dropdown-item">Dolo Flex Relax(Tab)</a>
-						<a href="dolocrema" class="dropdown-item">Dolo Flex Relax(Crema)</a>
-						<a href="horinga" class="dropdown-item">Horinga Patli</a>
+						<a href="dolotab.html" class="dropdown-item">Dolo Flex Relax(Tab)</a>
+						<a href="dolocrema.html" class="dropdown-item">Dolo Flex Relax(Crema)</a>
+						<a href="horinga.html" class="dropdown-item">Horinga Patli</a>
 					</div>
 					</li>
 					<li class="nav-item dropdown">
