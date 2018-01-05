@@ -67,7 +67,7 @@ session_start();
             </section>
         </section>
 
-        <form action="enviar.php" method="post" class="form_contact">
+        <form action="testmail.php" method="post" class="form_contact">
             <h2>¡Escríbenos! <small>Recibiremos tu mensaje.</small></h2>
             <div class="user_info">
                 <label for="names">Nombre Completo *</label>

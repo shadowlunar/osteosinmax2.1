@@ -2,6 +2,8 @@
 require_once 'class/base_mail.php';
 require_once 'class/phpmailer.php';
 
+
+
 // Obtener el método de la solicitud de petición al servidor
 $REQ_METHOD = isset($_SERVER['REQUEST_METHOD']) ? $_SERVER['REQUEST_METHOD'] : 'GET';
 $REQ_METHOD = strtolower(trim((string) $REQ_METHOD));
@@ -19,7 +21,10 @@ if( $REQ_METHOD == 'post' ) {
     $nombre = isset($_POST['nombre']) ? $_POST['nombre'] : '';
     $correo = isset($_POST['correo']) ? $_POST['correo'] : '';
     $asunto = isset($_POST['asunto']) ? $_POST['asunto'] : '';
+    $telefono = isset($_POST['telefono']) ? $_POST['telefono'] : '';
     $mensaje = isset($_POST['mensaje']) ? $_POST['mensaje'] : '';
+    $contenido ="Nombre:".$nombre . "<br> correo:".$correo . "<br>asunto:". $asunto ."<br>telefono:". $telefono . "<br>Mensaje:". $mensaje;
+    
 
     # Preparar el uso de la clase PHPMailer para trabajar con el envío de emails a nombre de otro servidor usando el protocolo SMTP
     $smtp = new PHPMailer();
@@ -47,7 +52,7 @@ if( $REQ_METHOD == 'post' ) {
 	#   "correo" => "nombre usuario"
 	$mailTo=array(
         'thelordsnake@hotmail.com' => 'OSTEO',
-        'mvaz_12@hotmail.com' => 'Miguel',
+        
     );
 
     # Asunto del Mensaje
@@ -56,10 +61,13 @@ if( $REQ_METHOD == 'post' ) {
     ## NOTA: En un correo electrónico es importante establecer los tipos de contenido: 'Solo Texto Plano' o 'Texto Plano y HTML'
     
 	# Indicamos el contenido de solo texto
-    $smtp->AltBody = $mensaje;
+    $smtp->AltBody = $contenido;
+   
     # Indicamos el contenido HTML
-    $smtp->MsgHTML($mensaje);
     
+    $smtp->MsgHTML($contenido);
+    
+
     $i = 0;
     $item = [];
     # Iterar a cada correo 
