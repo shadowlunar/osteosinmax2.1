@@ -139,13 +139,10 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								1 A $280 <br>
-								5 A $235 <br>
-								10 A $225 <br>
-								20 A $210 <br>
-								40 A $200 <br>
-								80 A $195 <br>
-								100 A $190
+								Precio Publico A $265 <br>
+								1 a 4  $235 <br>
+								5 A $200 <br>
+
 						</p>
 					</div>
 				</div>

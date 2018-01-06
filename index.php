@@ -156,10 +156,12 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Contacto y Pedidos</h3>
 						<p class="card-text text-center">
-						222-810-49-55 <br>	
 						921-104-92-88 <br>
 						921-121-73-06 <br>	
 						921-207-47-50 <br>
+						01 222-234-05-91<br>
+						01 222 699 66 18<br>
+						01 921 213 72 53
 					</p>
 					</div>
 				</div>

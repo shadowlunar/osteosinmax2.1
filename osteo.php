@@ -138,13 +138,14 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								1 A $345.00 <br>
-								5 A $235.00 <br>
-								10 A $225 <br>
-								20 A $210 <br>
-								40 A $200 <br>
-								80 A $195 <br>
-								100 A $190
+								Precio Publico $365.00 <br>
+								1 a 4 $325.00<br>
+								5 A $255.00 <br>
+								10 A $245 <br>
+								20 A $230 <br>
+								40 A $220 <br>
+								80 A $215 <br>
+								100 A $210
 						</p>
 					</div>
 				</div>

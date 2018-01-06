@@ -62,7 +62,8 @@ session_start();
                 <h2>OSTEO SIN MAX</h2>
             </section>
             <section class="info_items">
-                <p><span class="fa fa-envelope"></span> darklucario2@gmail.com</p>
+                <p><span class="fa fa-envelope"></span> huani.2016@hotmail.com</p>
+                <p><span class="fa fa-envelope"></span> osteo-sin-max@hotmail.com</p>
                 <p><span class="fa fa-mobile"></span> +1(585) 902-8665</p>
             </section>
         </section>

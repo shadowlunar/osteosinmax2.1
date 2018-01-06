@@ -136,8 +136,8 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								1 A $280 <br>
-								A partir de 5: $215
+								1 A $285 <br>
+								A partir de 5: $220
 						</p>
 					</div>
 				</div>
