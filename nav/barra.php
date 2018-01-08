@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/estilos.css">
-	<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"> -->
-    <body>
+
+<body>
 <nav class=" navbar navbar-toggleable-md navbar-inverse bg-primary fixed-top " >
 		<div class="container ">
 			
@@ -43,9 +35,9 @@
 					<a href="#" class="nav-link dropdown-toggle" id="menu-categorias1" data-toggle="dropdown" aria-haspopup="true" aria-expaded="false">PATLI</a>
 					<div class="dropdown-menu" arialabelledby="menu-categorias1">
 						
-						<a href="dolotab.html" class="dropdown-item">Dolo Flex Relax(Tab)</a>
-						<a href="dolocrema.html" class="dropdown-item">Dolo Flex Relax(Crema)</a>
-						<a href="horinga.html" class="dropdown-item">Moringa Patli</a>
+						<a href="dolotab.php" class="dropdown-item">Dolo Flex Relax(Tab)</a>
+						<a href="dolocrema.php" class="dropdown-item">Dolo Flex Relax(Crema)</a>
+						<a href="horinga.php" class="dropdown-item">Moringa Patli</a>
 					</div>
 					</li>
 					<li class="nav-item dropdown">
@@ -78,9 +70,5 @@
 			</div>
 		</div>
 </nav>
-<script src="js/headroom.min.js"></script>
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script> -->
-	<script src="js/bootstrap.min.js"></script>
+
 </body>
-</html>

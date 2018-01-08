@@ -19,28 +19,31 @@
 	<div class="row mt-5" >
 			<div class="col-4 mt-3">
 				<div class="card card-outline-primary">
-					<img src="img/OPTICOL EYES-PLUS.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
+					<img src="img/CICATRISAN PLUS MAX.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
 				</div>
 			</div>
 	
-			<div class="col-8 mt-3 mb-5">
-				<div class="card mt-5 " style="background-color:   #F39C12">
+			<div class="col-8 mt-3">
+				<div class="card " style="background-color: #F39C12">
 					<div class="card-block ">
-						<h1 class=" card-title text-center">Opticol Eyes-Plus </h1>
+						<h1 class=" card-title text-center">Cicatrisan Plus Max</h1>
 						<p class="card text-left">
 								<h4>Tratamiento auxilar:</h4>
-								Incrementa la circulación sanguínea del ojo<br>
-								
-								Aclara la visión<br>
-								
-								Ayuda a evitar resequedad ocular<br>
-								
-								tecnología nutraceútica bio-exacta<br>
-								
-								Frasco con 60 tabletas<br>
+							Chepático <br>
+							Digestivo <br>
+							Antiinflamatorio <br>
+ 							Regeneración hepática <br> 
+ 							Estimula la secreción biliar <br> 
+							Diarrea <br>
+							Gastritis <br>
+							Estreñimiento <br>
+							Cálculos biliares <br>
+							Cirrosis <br>
+							Congestión hepática <br>
+							Hepatitis <br>
 
-								Este producto no es un medicamento es un compuesto nutritivo <br>
 
+						  
 						     <p class="card-title h3 text-center" >Resultados imediatos</p>					 
 						</p>
 					</div>
@@ -56,19 +59,19 @@
 				<div class="card-block">
 						<h3 class="card-title text-center">Administración del medicamento</h3>
 						<p class=" text-center">
-						Tomar 1 tableta al día.
+								Tomar 2 Tabletas 3 veces al día.
 						</p>
 
 				</div>
 			</div>
 		</div>
-			<div class="col  ">
+			<div class="col ">
 				<div class="card " style="background: #F1C40F  " >
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								1 A $285 <br>
-								A partir de 5: $220
+								1 A $230 <br>
+								A partir de  5 $160 
 						</p>
 					</div>
 				</div>
@@ -116,11 +119,9 @@
 </footer>
 
 
-
-
 <script src="js/headroom.min.js"></script>
-<script src="js/jquery-3.2.1.min.js"></script>
-<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script> -->
-<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script> -->
+	<script src="js/bootstrap.min.js"></script>
 </body>
 </html>
