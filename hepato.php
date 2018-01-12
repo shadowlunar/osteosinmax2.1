@@ -18,28 +18,24 @@
 	<div class="row mt-5" >
 			<div class="col-4 mt-3">
 				<div class="card card-outline-primary">
-					<img src="img/HEPATOGENOL PLUS MAX.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
+					<img src="img/Hepatoprotector.png" class="card-img-top img-fluid" id="fondo" alt="">		
 				</div>
 			</div>
 	
 			<div class="col-8 mt-3">
 				<div class="card " style="background-color:   #F39C12">
 					<div class="card-block ">
-						<h1 class=" card-title text-center">Hepatogenol Plus Max</h1>
+						<h1 class=" card-title text-center">Hepatoprotector</h1>
 						<p class="card text-left">
 								<h4>Tratamiento auxilar:</h4>
-							Chepático <br>
-							Digestivo <br>
-							Antiinflamatorio <br>
- 							Regeneración hepática <br> 
- 							Estimula la secreción biliar <br> 
-							Diarrea <br>
-							Gastritis <br>
-							Estreñimiento <br>
-							Cálculos biliares <br>
-							Cirrosis <br>
-							Congestión hepática <br>
-							Hepatitis <br>
+                                <p>• reduce los niveles altos de colesterol.
+                                <p>• reduce el exceso de hierro en el organismo.
+                                <p>• tiene poder antioxidante, combatiendo los<br>
+                                <p>  daños producidos por los radicales libres.
+                                <p>• disminuye el riesgo de padecer diabetes.
+                                <p>• mejora la dispepsia y acidez estomacal.
+                
+                                
 
 
 						  
@@ -58,7 +54,7 @@
 				<div class="card-block">
 						<h3 class="card-title text-center">Administración del medicamento</h3>
 						<p class=" text-center">
-								Tomar 2 Tabletas 3 veces al día.
+                            tomar una capsula media hora antes del desayuno
 						</p>
 
 				</div>
@@ -69,8 +65,8 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								1 A $195 <br>
-								A partir de   $ 150
+								1 A $240 <br>
+								
 						</p>
 					</div>
 				</div>
