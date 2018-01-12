@@ -19,28 +19,25 @@
 	<div class="row mt-5" >
 			<div class="col-4 mt-3">
 				<div class="card card-outline-primary">
-					<img src="img/CICATRISAN PLUS MAX.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
+					<img src="img/MORINGA.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
 				</div>
 			</div>
 	
 			<div class="col-8 mt-3">
 				<div class="card " style="background-color: #F39C12">
 					<div class="card-block ">
-						<h1 class=" card-title text-center">Cicatrisan Plus Max</h1>
+						<h1 class=" card-title text-center">Moringa</h1>
 						<p class="card text-left">
 								<h4>Tratamiento auxilar:</h4>
-							Chepático <br>
-							Digestivo <br>
-							Antiinflamatorio <br>
- 							Regeneración hepática <br> 
- 							Estimula la secreción biliar <br> 
-							Diarrea <br>
-							Gastritis <br>
-							Estreñimiento <br>
-							Cálculos biliares <br>
-							Cirrosis <br>
-							Congestión hepática <br>
-							Hepatitis <br>
+							Artritis <br>
+							Anemia <br>
+							Diabetes <br>
+ 							Hipertencion <br> 
+ 							Insomnio <br> 
+							Mala Nutricion <br>
+							Circulacion <br>
+							Nervios <br>
+							Estres <br>
 
 
 						  
@@ -59,7 +56,6 @@
 				<div class="card-block">
 						<h3 class="card-title text-center">Administración del medicamento</h3>
 						<p class=" text-center">
-								Tomar 2 Tabletas 3 veces al día.
 						</p>
 
 				</div>

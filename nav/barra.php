@@ -60,11 +60,29 @@
 					<li class="nav-item dropdown">
 					<a href="#" class="nav-link dropdown-toggle" id="menu-categorias3" data-toggle="dropdown" aria-haspopup="true" aria-expaded="false">NATURAL NEEM</a>
 					<div class="dropdown-menu" arialabelledby="menu-categorias3">
-						
+
+						<a href="corteza.php" class="dropdown-item">capsulas de corteza de neem</a>
+						<a href="hoja.php" class="dropdown-item">capsulas de hoja de neem</a>
+						<a href="karanja.php" class="dropdown-item">neem-karanja anti-hongo orgánico</a>
+						<a href="cremacor.php" class="dropdown-item">crema corporal neem  patli</a>
+						<a href="extractohoja.php" class="dropdown-item">extractos de hoja de neem</a>
+						<a href="extractocorteza.php" class="dropdown-item">extractos de corteza de neem</a>
+						<a href="botanical.php" class="dropdown-item">botanical gel</a>
+						<a href="neempatli.php" class="dropdown-item">neem patli hojas de neem</a>
+						<a href="jabon.php" class="dropdown-item">jabón líquido para manos</a>
+						<a href="shampoo.php" class="dropdown-item">shampoo corporal con aceites tropicales</a>
+						<a href="pasta.php" class="dropdown-item">pasta dental de neem</a>
+						<a href="saw.php" class="dropdown-item">saw Palmeto</a>
+						<a href="jabonsabia.php" class="dropdown-item">jabones de neem con sabila, miel y aceites de neem</a>
+						<a href="oil.php" class="dropdown-item">neem oil natural face cream</a>
+						<a href="miel.php" class="dropdown-item">miel pura de abeja de flores de neem</a>
+
+
+
 					</div>
 					</li>
 					<li class="nav-item">
-						<a href="index.php" class="nav-link">Contactos</a>
+						<a href="formulario.php" class="nav-link">Contactos</a>
 					</li>
 				</ul>
 			</div>

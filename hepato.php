@@ -18,23 +18,28 @@
 	<div class="row mt-5" >
 			<div class="col-4 mt-3">
 				<div class="card card-outline-primary">
-					<img src="img/dolocrema.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
+					<img src="img/HEPATOGENOL PLUS MAX.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
 				</div>
 			</div>
 	
 			<div class="col-8 mt-3">
-				<div class="card " style="background-color: #F39C12">
+				<div class="card " style="background-color:   #F39C12">
 					<div class="card-block ">
-						<h1 class=" card-title text-center">Dolo Flex Relax(crema)</h1>
+						<h1 class=" card-title text-center">Hepatogenol Plus Max</h1>
 						<p class="card text-left">
 								<h4>Tratamiento auxilar:</h4>
-								<p>Dolor muscular										
-								<p>Gota 
-								<p>reumatismo, 
-								<p>Neuritis ciática 
-								<p>Artritis
-								<p>hernia de disco</p>
-						
+							Chepático <br>
+							Digestivo <br>
+							Antiinflamatorio <br>
+ 							Regeneración hepática <br> 
+ 							Estimula la secreción biliar <br> 
+							Diarrea <br>
+							Gastritis <br>
+							Estreñimiento <br>
+							Cálculos biliares <br>
+							Cirrosis <br>
+							Congestión hepática <br>
+							Hepatitis <br>
 
 
 						  
@@ -64,9 +69,8 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								Precio Publico A $285 <br>
-								1 a 4  $235 <br>
-								5 A $200 <br>	
+								1 A $195 <br>
+								A partir de   $ 150
 						</p>
 					</div>
 				</div>

@@ -18,14 +18,14 @@
 	<div class="row mt-5" >
 			<div class="col-4 mt-3">
 				<div class="card card-outline-primary">
-					<img src="img/CICATRISAN PLUS MAX.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
+					<img src="img/dolotab.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
 				</div>
 			</div>
 	
 			<div class="col-8 mt-3">
 				<div class="card " style="background-color: #F39C12">
 					<div class="card-block ">
-						<h1 class=" card-title text-center">Cicatrisan Plus Max</h1>
+						<h1 class=" card-title text-center">Dolo Flex Relax(tab)</h1>
 						<p class="card text-left">
                                 <h4>Tratamiento auxilar:</h4>
                                 
