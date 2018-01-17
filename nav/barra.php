@@ -49,12 +49,10 @@
 						<a href="diabetea.php" class="dropdown-item">Diabetea Plus</a>
 						<a href="inmunoten.php" class="dropdown-item">Inmunoten</a>
 						<a href="imunocur.php" class="dropdown-item">Imunocur</a>
-						<a href="memo.php" class="dropdown-item">Memo Rem Plus</a>
 						<a href="piel.php" class="dropdown-item">Piel Sana Plus</a>
 						<a href="Prosata.php" class="dropdown-item">Prosata Wiix</a>
 						<a href="riñon1.php" class="dropdown-item">Riñon Sano 1</a>
 						<a href="riñon2.php" class="dropdown-item">Riñon Sano 2</a>
-						<a href="tlachalagua.php" class="dropdown-item">Tlanchalagua</a>
 					</div>
 					</li>
 					<li class="nav-item dropdown">
