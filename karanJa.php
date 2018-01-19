@@ -25,18 +25,17 @@
 			<div class="col-8 mt-3">
 				<div class="card " style="background-color:   #F39C12">
 					<div class="card-block ">
-						<h1 class=" card-title text-center">Capsulas de corteza de neem </h1>
+						<h1 class=" card-title text-center">Neem-karanja anti-hongo  </h1>
 						<p class="card text-left">
 								<h4>Tratamiento auxilar:</h4>
-                                <p>Los muchos beneficios del árbol de neem, se han aprovechado durante 
-                                siglos por la medicina tradicional de la india, 
-                                constituyendo un remedio natural muy popular,  corteza se aprovechan con distintos fines 
-                                que van desde el tratamiento de problemas respiratorios, hasta úlceras gástricas.
-                                 para mejorar el sistema inmunológico: el extracto de la hoja de 
-                                neem  y de su corteza poseen la capacidad de estimular el sistema inmunológico,
-                                 de esta forma estamos más protegidos ante la amenaza de posibles infecciones o bien,
-                                 puede favorecer la curación de dichas infecciones de forma natural<br>
-                                 <p>Cont. 90 capsulas
+                                <p>el anti hongo ayuda a eliminar problemas de la piel 
+                                ( hongo, verrugas, uñas y dolor de picadas 
+                                ingredientes: aceite de neem , aceite de karanja,
+                                 aceite esencial de 
+                                eucalipto, extracto de romero, extracto de orégano
+                                 y extracto de albahaca
+<br>
+                                 <p>Cont. 30ml
                 
                                 
 
@@ -72,8 +71,8 @@
 					<div class="card-block">
 						<h3 class="card-title text-center">Precios</h3>
 						<p class=" card-text text-center"> 
-								1 A $195 <br>
-                                A partir de 5 $147
+								1 A $130 <br>
+                                A partir de 5 $108
 								
 						</p>
 					</div>

@@ -71,7 +71,7 @@
 						<a href="shampoo.php" class="dropdown-item">shampoo corporal con aceites tropicales</a>
 						<a href="pasta.php" class="dropdown-item">pasta dental de neem</a>
 						<a href="saw.php" class="dropdown-item">saw Palmeto</a>
-						<a href="jabonsabia.php" class="dropdown-item">jabones de neem con sabila, miel y aceites de neem</a>
+						<a href="jabonsabia.php" class="dropdown-item">jabones de neem con sabila y miel</a>
 						<a href="oil.php" class="dropdown-item">neem oil natural face cream</a>
 						<a href="miel.php" class="dropdown-item">miel pura de abeja de flores de neem</a>
 
