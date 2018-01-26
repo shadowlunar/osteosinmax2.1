@@ -18,7 +18,7 @@
 	<div class="row mt-5" >
 			<div class="col-4 mt-3">
 				<div class="card card-outline-primary">
-					<img src="img/capsulas de corteza de neem.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
+					<img src="img/jabon liquido para manos.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
 				</div>
 			</div>
 	
