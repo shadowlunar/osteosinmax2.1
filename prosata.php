@@ -82,34 +82,7 @@
 
 
 <footer>
-	<div class="container ">
-		<div class="row">
-		
-			<div class="col">
-				<div class="card card-inverse mt-3" style="background: black" >
-					<div class="card-block">
-
-							<h3 class="card-title text-center">Contacto y Pedidos</h3>
-						<p class="card-text text-center">
-						222-810-49-55 <br>	
-						921-104-92-88 <br>
-						921-121-73-06 <br>	
-						921-207-47-50 <br>
-					</p>
-					</div>
-				</div>
-			</div>
-			<div class="col">
-				<div class="card card-inverse  mt-3" style="background: black">
-					<div class="card-block">
-						<h3 class="card-title">Preguntas frecuentes</h3>
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, quibusdam.</p>
-						<a href="#" class="btn " style="background: #F1C40F">Ir al post</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+<?php include 'nav/barra_abajo.php';?>
 </footer>
 
 
