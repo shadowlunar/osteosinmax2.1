@@ -16,13 +16,13 @@
 
 <div class="container ">
 	<div class="row mt-5" >
-			<div class="col-4 mt-3">
+			<div class="col-8 mt-3">
 				<div class="card card-outline-primary">
 					<img src="img/dolocrema.jpg" class="card-img-top img-fluid" id="fondo" alt="">		
 				</div>
 			</div>
 	
-			<div class="col-8 mt-3">
+			<div class="col-4 mt-3">
 				<div class="card " style="background-color: #F39C12">
 					<div class="card-block ">
 						<h1 class=" card-title text-center">Dolo Flex Relax(crema)</h1>

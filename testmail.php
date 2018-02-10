@@ -45,13 +45,15 @@ if( $REQ_METHOD == 'post' ) {
     
     # Datos del Remitente
     # TODO: Cambiar por los parámetros a utilizar en el su servicio
-	$smtp->From       = "thelordsnake@hotmail.com";
+	$smtp->From       = "huani.2016@hotmail.com";
     $smtp->FromName   = "OSTEO"; 
     
 	# Indicamos los destinatarios usando el siguiente formato
 	#   "correo" => "nombre usuario"
 	$mailTo=array(
-        'thelordsnake@hotmail.com' => 'OSTEO',
+        'huani.2016@hotmail.com' => 'OSTEO',
+        'osteo-sin-max@hotmail.com' => 'OSTEO'
+        
         
     );
 
