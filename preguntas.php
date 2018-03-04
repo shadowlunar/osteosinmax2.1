@@ -11,32 +11,42 @@
 
 </head>
 <body>
-<?php include 'nav/barra.php';?>
+	<?php include 'nav/barra.php';?>
 
 <div class="container">
 	<div class="row mt-3">
 			<div class="col">
 				<div class="card">
 					<img src="img/OSTEO SIN MAX.jpg" class="card-img-top img-fluid" alt="">
-					<div class="card-block">
-						<h3 class="card-title">Titulo</h3>
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium similique vero perferendis dolorem in libero id omnis, esse nesciunt corrupti?</p>
+					<div class="card-block" style="background: #F1C40F">
+						<h3 class="card-title text-center">Osteo Sin Max</h3>
+						<p class="card-text">Efecto secundario que hemos encontrado 
+Recuerde que este es un producto no un medicamento no tiene estudios previos,
+ y solo por la experiencia de las personas que nos compran nos hemos llenado de experiencias
+Da Mucha energía y puede provocar insomnio, recomendamos consumirlas antes de las 4 de la tarde en las personas que han tenido esa experiencia. Y no deben tomarla las mujeres embarazadas o lactando y quienes sean alérgicos a la aspirina o cualquier medicamento que contenga ácido acetil salicilico AAS, ya que contiene sauce blanco y este contiene salicina y de ahí obtuvieron el AAS
+También por precaución las personas alérgicas a la penicilina por algo que se llama reacción cruzada
+</p>
+<div class="row mt-3">
+	<div class="card-block" style="background: #F1C40F">
+					<p class="card-text ">
+						<ul>
+							<li>Efecto secundario que hemos encontrado 
+Recuerde que este es un producto no un medicamento no tiene estudios previos,
+ y solo por la experiencia de las personas que nos compran nos hemos llenado de experiencias
+Da Mucha energía y puede provocar insomnio, recomendamos consumirlas antes de las 4 de la tarde en las personas que han tenido esa experiencia. Y no deben tomarla las mujeres embarazadas o lactando y quienes sean alérgicos a la aspirina o cualquier medicamento que contenga ácido acetil salicilico AAS, ya que contiene sauce blanco y este contiene salicina y de ahí obtuvieron el AAS
+También por precaución las personas alérgicas a la penicilina por algo que se llama reacción cruzada
+</li>
+</ul>
+</p>
+						</div>
+				
+</div>
+
+
 						<a href="#" class="btn btn-primary btn-lg btn-block">Boton</a>
 					</div>
 				</div>
 			</div>
-			<div class="coL">
-				<div class="card">
-					<img src="img/OSTEO SIN MAX.jpg" class="card-img-top img-fluid" alt="">
-					<div class="card-block">
-						<h3 class="card-title">Titulo</h3>
-						<p class="card-subtitle text-muted mb-2">Subtitulo</p>
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium similique vero perferendis dolorem in libero id omnis, esse nesciunt corrupti?</p>
-						<a href="#" class="card-link">Enlace #1</a>
-						<a href="#" class="card-link">Enlace #2</a>
-					</div>
-			</div>
-		</div>
 	</div>
 </div>
 
