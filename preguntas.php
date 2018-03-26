@@ -20,6 +20,26 @@
 					<img src="img/ostebaner.jpg" class="card-img-top img-fluid" alt="">
 						<div class="card-block" style="background: #F2F5A9">
 							<p class="card-text ">
+
+							
+							<h1 class="text-center">¡Libre de cortisona!</h1>
+							<br>
+							
+
+							<ul>
+							<p class="text-justify">Nuestros productos están libres de cortisona, betametasona y/o 
+							cualquiera de sus derivados y subproductos. Este producto contiene
+							 Sauce Blanco, de donde se obtiene la salicina para el ácido acetilsalicílico 
+							 y sus derivados como el salicilato de metilo, pudiendo provocar reacciones
+							alérgicas a personas sensibles a estos compuestos. Pueden presentarse reacciones
+							alérgicas a los componentes naturales de los ingredientes de Osteo Sin Max o 
+							Dolo Flex Relax, pero no hay casos documentados. 
+							<p class="text-justify">No se recomienda su uso en personas menores a 16 años, con enfermedades 
+							crónicas, embarazadas o en periodo de lactancia. Consulte a su médico. 
+
+							</ul>
+
+							
 						
 							<li>
 							¿Qué son la glucosamina y el sulfato de condroitina?
@@ -116,21 +136,28 @@
 							<ul>
 							<p class="text-justify">Si decide probar estos suplementos, los expertos recomiendan 
 							tomar la cantidad utilizada en la mayoría de los estudios clínicos: 
+
 							<p class="text-justify">Glucosamina: cápsulas, tabletas, líquido o polvo, 1,500 mg 
 							(miligramos) al día.  
+
 							<p class="text-justify">Condroitina: cápsulas, tabletas y en polvo, de 800 a 1,200 mg 
 							por día dividido en dos a cuatro dosis. 
+
 							<p class="text-justify">Si esta dosis alivia los síntomas, puede disminuir la cantidad
 							 gradualmente después de los primeros meses. 
+
 							 <p class="text-justify">	Puede tardar un mes antes de que note cualquier mejoría. 
+
 							 <p class="text-justify">Generalmente se recomienda ingerir la glucosamina y el sulfato
 							 de condroitina juntos, aunque no se sabe a ciencia cierta si la 
 							 combinación surte un mejor efecto que el uso individual de cada sustancia. 
+
 							 <p class="text-justify">Debe planificar el consumo de los suplementos junto con los 
 							medicamentos que toma actualmente durante 6 a 8 semanas. Si el
 							 dolor baja, consulte con su médico si debe disminuir o interrumpir 
 							 los otros medicamentos durante un tiempo, para verificar si se realiza
 							  algún cambio en los niveles de dolor y rigidez. 
+
 							  <p class="text-justify">Si luego de cuatro a seis meses no nota ningún cambio
 							 en los síntomas, probablemente los suplementos no le proporcionen 
 							 ningún alivio. Algunas personas pueden experimentar un alivio parcial 
@@ -138,6 +165,58 @@
 							 medicamentos para un alivio completo. 
 
 							</ul>
+							</li>
+
+							<li>
+							¿Estos suplementos tienen efectos colaterales?
+							<ul>
+							<p class="text-justify">Tanto la glucosamina como el sulfato de condroitina pueden presentar los siguientes efectos adversos: 
+							<p class="text-justify">Aumento de gas intestinal 
+							<p class="text-justify">Malestar estomacal 
+							<p class="text-justify">Deposiciones más blandas 
+							<p class="text-justify">Se deben realizar más estudios para confirmar la seguridad y la eficacia de los suplementos. Acuda a su médico si nota algún síntoma nuevo o inusual al tomar estos suplementos. 
+
+							</ul>
+							</li>
+
+							<li>
+							Precauciones
+							<ul>
+							<p class="text-justify">Los niños, las mujeres embarazadas y las mujeres 
+							que pueden quedar embarazadas no deben tomar estos suplementos. 
+							Estas sustancias no se estudiaron lo suficiente como para determinar 
+							los efectos que pudieran tener en un feto en desarrollo o en un niño. 
+							<p class="text-justify">Las personas que presenten las afecciones enunciadas 
+							a continuación deben ser cautelosos con estos suplementos:
+
+							</ul>
+							</li>
+
+							<li>
+							Glucosamina:
+							<ul>
+							<p class="text-justify">Diabetes, dado que la glucosamina es un aminosacárido, los diebéticos deben controlar los niveles de azúcar en sangre con más frecuencia al tomar estos suplementos. 
+							<p class="text-justify">Individios bajo anticoagulantes como warfarina (Coumadin) en combinación con clorhidrato de glucosamina con o sin condroitina deberán abstenerse de ingerir el suplemento. 
+							<p class="text-justify">Alergia a los mariscos, si es alérgico, consulte a su médico antes de comenzar a tomar glucosamina. En la mayoría de los casos, las alergias son causadas por las proteínas que se hallan en los mariscos, no por la quitina, carbohidrato del cual se extrae la glucosamina.  
+							<p class="text-justify">Glaucoma, un nuevo estudio sugiere que las personas con este trastorno o con hipertensión intraocular podrían empeorar la presión del ojo si toman glucosamina. Otros efectos secundarios son aumento de triglicéridos y colesterol. 
+
+							</ul>
+							</li>
+							<li>
+							Sulfato de condroitina: 
+							<ul>
+							<p class="text-justify">Este suplemento puede incluir componentes de estructura similar
+							 a la heparina, fármaco anticoagulante, por lo que ingerirlo junto con un AINE,
+							  como por ejemplo, la aspirina, podría aumentar el riesgo de hemorragia.
+							   En este caso es aconsejable tomarse el tiempo de protrombina y coagulación
+							    con más frecuencia. 
+							<p class="text-justify">Ciertas tabletas pueden contener niveles altos de manganeso (Mn), lo que
+							 podría provocar envenenamiento del sistema nervioso a largo plazo 
+							 (si sobrepasa 11 mg Mn/día). Además, como la condroitina proviene de 
+							 ganado bovino, existe la posibilidad remota de contaminación asociada a
+							  la enfermedad de las vacas locas. 
+
+							<ul>
 							</li>
 
 						
